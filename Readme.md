@@ -40,7 +40,32 @@ Madhu Parvathaneni alias MS is a Solutions Architect and CEO at Make Skilled. He
   <tr>
     <td>5</td>
     <td>Day 1</td>
-    <td>Create Hello Madhu Program</td>
+    <td>Print your Team Name continuously for every 4 seconds</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Day 1</td>
+    <td>Make LED ON at D4</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Day 1</td>
+    <td>Blink LED ON at D4</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Day 1</td>
+    <td>Switch LED ON at D4 based on User Input</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Day 1</td>
+    <td>Read Light Sensor Data and Print on Serial Monitor</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Day 1</td>
+    <td>Make LED ON at D4 based on Light Sensor Status</td>
   </tr>
 </table>
 
