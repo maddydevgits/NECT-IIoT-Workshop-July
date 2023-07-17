@@ -31,6 +31,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and CEO at Make Skilled. He
   </tr>
   <tr>
     <td>4</td>
+    <td>Day 1</td>
     <td>ESP8266 Configuration in Arduino IDE</td>
   </tr>
   <tr>
