@@ -6,6 +6,9 @@ Department of Electronics and Communication Engineering (ECE) from Narasaraopeta
 
 Madhu Parvathaneni alias MS is a Solutions Architect and CEO at Make Skilled. He has 10+ years of experience in building IoT products from prototype stage to production stage. He trained more than 1.8 lakh students and 10K+ faculties across India on various cutting-edge technologies like IoT, Machine Learning, Cloud Computing, Augmented and Virtual Reality, Robotics, Blockchain etc...
 
+# Pinout
+<img src="esp8266.png" />
+
 # Table of Contents
 
 <table>
