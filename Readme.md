@@ -122,6 +122,11 @@ Madhu Parvathaneni alias MS is a Solutions Architect and CEO at Make Skilled. He
     <td>Day 2</td>
     <td>Group Chat using MQTT Protocol</td>
   </tr>
+  <tr>
+    <td>22</td>
+    <td>Day 2</td>
+    <td>Publish Sensory Feed to Google Colab</td>
+  </tr>
 </table>
 
 # WhatsApp Group
