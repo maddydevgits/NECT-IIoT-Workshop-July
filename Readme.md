@@ -67,6 +67,61 @@ Madhu Parvathaneni alias MS is a Solutions Architect and CEO at Make Skilled. He
     <td>Day 1</td>
     <td>Make LED ON at D4 based on Light Sensor Status</td>
   </tr>
+  <tr>
+    <td>11</td>
+    <td>Day 2</td>
+    <td>Read IR Sensor Data and Print on Serial Monitor</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>Day 2</td>
+    <td>Make LED ON at D4 if object is detected using IR Sensor</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>Day 2</td>
+    <td>Read Alcohol Sensor Data connected at A0 and Print on Serial Monitor</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>Day 2</td>
+    <td>Make LED ON at D4 when person is drunken over a limit</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Day 2</td>
+    <td>Read Ultrasonic Sensor Data and Print on Serial Monitor</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>Day 2</td>
+    <td>Make LED ON at D4 when distance is less than 20cm</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>Day 2</td>
+    <td>Make Buzzer beep for every 4 seconds</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>Day 2</td>
+    <td>Read Soil Moisture Sensor Data conencted at A0 and Print on Serial Monitor</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>Day 2</td>
+    <td>Print Wet Soil and Dry Soil based on Moisture Sensor Data</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Day 2</td>
+    <td>Read Humidity and Temperature from DHT11 and Print on Serial Monitor</td>
+  </tr>
+  <tr>
+    <td>21</td>
+    <td>Day 2</td>
+    <td>Group Chat using MQTT Protocol</td>
+  </tr>
 </table>
 
 # WhatsApp Group
