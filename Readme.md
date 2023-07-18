@@ -75,7 +75,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and CEO at Make Skilled. He
   <tr>
     <td>12</td>
     <td>Day 2</td>
-    <td>Make LED ON at D4 if object is detected using IR Sensor</td>
+    <td>Count how many times the object is detected</td>
   </tr>
   <tr>
     <td>13</td>
