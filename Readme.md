@@ -100,32 +100,72 @@ Madhu Parvathaneni alias MS is a Solutions Architect and CEO at Make Skilled. He
   <tr>
     <td>17</td>
     <td>Day 2</td>
-    <td>Make Buzzer beep for every 4 seconds</td>
+    <td>Group Chat using MQTT Protocol</td>
   </tr>
   <tr>
     <td>18</td>
     <td>Day 2</td>
-    <td>Read Soil Moisture Sensor Data conencted at A0 and Print on Serial Monitor</td>
+    <td>Make Buzzer beep for every 4 seconds</td>
   </tr>
   <tr>
     <td>19</td>
-    <td>Day 2</td>
-    <td>Print Wet Soil and Dry Soil based on Moisture Sensor Data</td>
+    <td>Day 3</td>
+    <td>Read Soil Moisture Sensor Data conencted at A0 and Print on Serial Monitor</td>
   </tr>
   <tr>
     <td>20</td>
-    <td>Day 2</td>
-    <td>Read Humidity and Temperature from DHT11 and Print on Serial Monitor</td>
+    <td>Day 3</td>
+    <td>Upload Sensory Data to ThingSpeak Cloud</td>
   </tr>
   <tr>
     <td>21</td>
-    <td>Day 2</td>
-    <td>Group Chat using MQTT Protocol</td>
+    <td>Day 3</td>
+    <td>Control Device from Mobile App</td>
   </tr>
   <tr>
     <td>22</td>
-    <td>Day 2</td>
-    <td>Publish Sensory Feed to Google Colab</td>
+    <td>Day 3</td>
+    <td>Make Decision Control on Google Colab</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>Day 3</td>
+    <td>Read DHT11 Data</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>Day 3</td>
+    <td>Upload DHT11 Data to ThingSpeak IoT Cloud</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>Day 3</td>
+    <td>Create ML Model for DHT11 Data</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>Day 3</td>
+    <td>Make Decision Control using ML Model</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>Day 3</td>
+    <td>Create Applets on IFTTT</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>Day 3</td>
+    <td>Control Device on Google Assistant</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>Day 3</td>
+    <td>IoT Certification</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>Day 3</td>
+    <td>Python Certification</td>
   </tr>
 </table>
 
